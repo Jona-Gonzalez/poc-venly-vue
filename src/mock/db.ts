@@ -1,0 +1,38 @@
+export const nfts = [
+  {
+    name: 'Turtle Donatello',
+    description: 'Turtle Donatello NFT from TMNT',
+    rate: 1000,
+    quantity: 1,
+    image: 'donatello',
+    extension: 'jpeg',
+    id: 1,
+  },
+  {
+    name: 'Miguel Angelo',
+    description: 'Turtle Miguel Angelo NFT TMNT',
+    rate: 3000,
+    quantity: 1,
+    image: 'miguel-angelo',
+    extension: 'jpeg',
+    id: 2,
+  },
+  {
+    name: 'Turtle Raphael',
+    description: 'Turtle Raphael NFT from TMNT',
+    rate: 1200,
+    quantity: 1,
+    image: 'raphael',
+    extension: 'jpeg',
+    id: 3,
+  },
+  {
+    name: 'Turtle Leonardo',
+    description: 'Turtle Leonardo NFT from TMNT',
+    rate: 1300,
+    quantity: 1,
+    image: 'leonardo',
+    extension: 'jpeg',
+    id: 4,
+  },
+];
